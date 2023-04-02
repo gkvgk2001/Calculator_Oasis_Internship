@@ -4,6 +4,23 @@ convenience for successful completion of internship.
 
 I have completed all the task sucessfully.
 
+ALL the tasks live links are:
+
+1). Calculator:  Task-1
+
+Live project Link:   https://gkvgk2001.github.io/Calculator_Oasis/
+
+
+2). Tribute page:  Task-2
+
+Live project Link:   https://gkvgk2001.github.io/Tributepage/
+
+
+3). TO-DO app:  Task-3
+
+Live project Link: https://gkvgk2001.github.io/To-Do_app/
+
+
 
 I Choose to perfom LEVEL 2 task in which we have to make the following project with the provided instructions:
 
@@ -22,19 +39,18 @@ It takes a little skill to create a calculator with basic mathematical functiona
 Task 2 :
 
 
-Live project Link:   https://gkvgk2001.github.io/Tributepage/
-
-
 Tribute page:
+
+Live project Link:   https://gkvgk2001.github.io/Tributepage/
 
 With a basic understanding of HTML and CSS, you can easily create a page for someone you admire. Write about what you adore in the person, add images, give an appealing layout, use paragraphs appropriately. You can also play around with different font styles and background colors.
 
 
 Task 3:
 
-Live project Link: https://gkvgk2001.github.io/To-Do_app/
-
 TO-DO app:
+
+Live project Link: https://gkvgk2001.github.io/To-Do_app/
 
 Develop a basic to-do app that enables a user to add daily tasks.
 
